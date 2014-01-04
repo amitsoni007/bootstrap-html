@@ -127,3 +127,9 @@ legend {
 
 /* YUI reset ends here */
 
+@font-face {
+  font-family: 'Prime';
+  font-style: normal;
+  font-weight: 400;
+  src: local('regular'), local('regular'), url("../fonts/regular.woff") format('woff');
+}
